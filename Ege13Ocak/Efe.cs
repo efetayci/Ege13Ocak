@@ -2,6 +2,6 @@
 {
     public class Efe
     {
-        public string Job { get; set; }
+        public string JobSecondName { get; set; }
     }
 }
