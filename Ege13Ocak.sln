@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ege13Ocak", "Ege13Ocak\Ege13Ocak.csproj", "{0657E619-F39A-4F5C-B7FF-17884FDA5F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ege13Ocak2inciProje", "Ege13Ocak2inciProje\Ege13Ocak2inciProje.csproj", "{ABDE243B-45C7-4830-ADC5-66652218DFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0657E619-F39A-4F5C-B7FF-17884FDA5F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0657E619-F39A-4F5C-B7FF-17884FDA5F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0657E619-F39A-4F5C-B7FF-17884FDA5F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0657E619-F39A-4F5C-B7FF-17884FDA5F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDE243B-45C7-4830-ADC5-66652218DFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDE243B-45C7-4830-ADC5-66652218DFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDE243B-45C7-4830-ADC5-66652218DFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDE243B-45C7-4830-ADC5-66652218DFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6214D2AF-E0AA-4104-AD43-DF96DC7E4418}
+	EndGlobalSection
+EndGlobal

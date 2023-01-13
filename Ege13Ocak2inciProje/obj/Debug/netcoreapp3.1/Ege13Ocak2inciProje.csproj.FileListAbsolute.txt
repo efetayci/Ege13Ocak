@@ -1,0 +1,14 @@
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\bin\Debug\netcoreapp3.1\Ege13Ocak2inciProje.exe
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\bin\Debug\netcoreapp3.1\Ege13Ocak2inciProje.deps.json
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\bin\Debug\netcoreapp3.1\Ege13Ocak2inciProje.runtimeconfig.json
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\bin\Debug\netcoreapp3.1\Ege13Ocak2inciProje.runtimeconfig.dev.json
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\bin\Debug\netcoreapp3.1\Ege13Ocak2inciProje.dll
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\bin\Debug\netcoreapp3.1\Ege13Ocak2inciProje.pdb
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.csproj.AssemblyReference.cache
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.AssemblyInfoInputs.cache
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.AssemblyInfo.cs
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.csproj.CoreCompileInputs.cache
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.dll
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.pdb
+D:\repos\PAYBİLGİ\Ege13Ocak\Ege13Ocak2inciProje\obj\Debug\netcoreapp3.1\Ege13Ocak2inciProje.genruntimeconfig.cache
