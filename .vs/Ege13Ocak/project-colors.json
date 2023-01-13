@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0657e619-f39a-4f5c-b7ff-17884fda5f83": {
+      "ProjectGuid": "0657e619-f39a-4f5c-b7ff-17884fda5f83",
+      "DisplayName": "Ege13Ocak",
+      "ColorIndex": 0
+    },
+    "abde243b-45c7-4830-adc5-66652218dfce": {
+      "ProjectGuid": "abde243b-45c7-4830-adc5-66652218dfce",
+      "DisplayName": "Ege13Ocak2inciProje",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
