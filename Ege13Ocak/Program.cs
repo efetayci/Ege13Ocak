@@ -12,6 +12,11 @@ namespace Ege13Ocak
             efe.Job = "engineer";
 
             Console.WriteLine("Efeni işi : " + efe.Job);
+            
+            Efe ege = new Efe();
+            ege.Job = "student";
+            
+            Console.WriteLine("Egenin işi : " + efe.Job);
         }
     }
 }
