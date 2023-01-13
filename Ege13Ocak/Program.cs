@@ -9,14 +9,14 @@ namespace Ege13Ocak
             Console.WriteLine("Hello World!"); 
             
             Efe efe = new Efe();
-            efe.Job = "engineer";
+            efe.JobSecondName = "engineer";
 
-            Console.WriteLine("Efeni işi : " + efe.Job);
+            Console.WriteLine("Efeni işi : " + efe.JobSecondName);
             
             Efe ege = new Efe();
-            ege.Job = "student";
+            ege.JobSecondName = "student";
             
-            Console.WriteLine("Egenin işi : " + efe.Job);
+            Console.WriteLine("Egenin işi : " + efe.JobSecondName);
         }
     }
 }
