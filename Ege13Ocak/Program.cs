@@ -6,7 +6,12 @@ namespace Ege13Ocak
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");      
+            Console.WriteLine("Hello World!"); 
+            
+            Efe efe = new Efe();
+            efe.Job = "engineer";
+
+            Console.WriteLine("Efeni işi : " + efe.Job);
         }
     }
 }
